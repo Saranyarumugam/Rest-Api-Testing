@@ -1,8 +1,8 @@
 # Rest-Api-Testing
-Rest Api Testing in Github.com
-Used base class to read the Urls, GET response and return response
-Used test case class to test the scenarios
-Provided Urls in properties file
+Rest Api Testing in Github.com  
+Used base class to read the Urls, GET response and return response  
+Used test case class to test the scenarios  
+Provided Urls in properties file  
 # Tested below scenarios using TestNG framework
 * Status code validation
 * Url with quaery param q
